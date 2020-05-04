@@ -1,0 +1,181 @@
+.top
+{
+  background-color:#e0ebe8;
+
+
+}
+.middle
+{
+
+}
+.bottom
+{
+background-color:#e0ebe8;
+padding: 30px 0 20px;
+}
+
+h1 {
+    margin-top: 0;
+padding-top: 100px;
+font-family: 'Sacramento', cursive;
+font-size: 500%;
+color:#66BFBF ;
+
+}
+h2
+{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.1rem;
+  color: #11999E;
+  font-size: 20px;
+
+}
+h3
+{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+font-weight: bold;
+font-size: 25px;
+}
+
+body
+{
+margin:0;
+text-align: center;
+font-family: 'Merriweather', serif;
+}
+.pro
+{
+  text-decoration:underline;
+}
+
+.top-cloud{
+  position:absolute;
+  right:350px;
+  top:50px;
+}
+
+.bottom-cloud{
+  position:absolute;
+  left:420px;
+
+
+}
+
+
+.normal{
+
+  font-weight: normal;
+}
+.skill-row{
+  width:50%;
+  margin:80px auto 200px auto;
+  text-align: left;
+  line-height: 2;
+
+}
+
+p{
+  line-height: 2;
+}
+
+.skill-picture1{
+  width:25%;
+  float:left;
+  margin-right: 30px;
+  border-radius: 100%;
+}
+.skill-picture2{
+  width:25%;
+  float:right;
+  margin-left: 30px;
+}
+
+  .skill-picture3{
+    width:28%;
+    float:left;
+    margin-right: 30px;
+      border-radius: 100%;
+}
+.skill-picture4{
+  width:32%;
+  float:right;
+  margin-left: 30px;
+
+}
+.edit{
+  padding-top: 25px;
+  margin-bottom: 0;
+  font-size: 50px
+}
+.Intro{
+  width:20%;
+  margin:0 auto 0 auto;
+}
+
+hr{
+  border: dotted #85a392 8px;
+  border-bottom: none;
+width:10%;
+margin-top: 70px;
+}
+.lower-hr{
+  margin-bottom: 100px;
+  margin-top: 50px;
+}
+
+.contact-message{
+  width:20%;
+  margin:0 auto 70px auto;
+}
+.btn {
+	box-shadow: 0px 0px 6px 2px #9fb4f2;
+	background:linear-gradient(to bottom, #1E96D0 5%, #11999E 100%);
+	background-color:#7892c2;
+	border-radius:9px;
+	border:1px solid #4e6096;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	  font-family: 'Montserrat', sans-serif;
+	font-size:19px;
+	padding:10px 30px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #283966;
+  position: static;
+margin-bottom: 100px;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #11999E 5%, #1E96D0 100%);
+	background-color:#476e9e;
+}
+
+
+.btn:active {
+	position:relative;
+	top:1px;
+}
+a
+{
+
+  color: #11999E;
+  text-decoration:none;
+ font-family: 'Montserrat', sans-serif;
+ font-size: 20px;
+
+  margin:20px 30px 70px 30px ;
+
+}
+a:hover{
+  color: #43d8c9;
+}
+
+.copyr{
+  color:#588da8;
+  font-size: 0.85rem;
+  padding: 30px 0 10px 0;
+}
+.getintouch{
+  font-size: 40px;
+  margin-bottom: 0;
+}
